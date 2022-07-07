@@ -9,7 +9,7 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "mint-ui": "^2.2.13",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "v-back": "^1.0.5",
     "vue": "^2.6.11",
     "vue-cookies": "^1.7.0",
